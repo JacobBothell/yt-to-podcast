@@ -1,0 +1,15 @@
+{
+  "name": "youtube_to_podcast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_youtube_data.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacob bothell",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^107.0.0"
+  }
+}
