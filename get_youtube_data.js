@@ -40,5 +40,5 @@ function next(){
     })
 }
 
-getPlaylistItems('PL6c6yEE5wGqkudaFVwi_OtAodcweym7T0')
+getPlaylistItems(plID)
     .then((ret) => next())
